@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Shengjie Luo, a third-year PhD student at Peking University, advised by [Prof.Liwei Wang](http://www.liweiwang-pku.com/) and [Prof.Di He](https://dihe-pku.github.io/). Before that, I finished my undergraduate study at ShenYuan Honors College in Beihang University, majoring in Computer Science.
+Hi! I am Shengjie Luo, a third-year PhD student at School of Intelligence Science and Technology in Peking University, advised by [Prof.Liwei Wang](http://www.liweiwang-pku.com/) and [Prof.Di He](https://dihe-pku.github.io/). Before that, I finished my undergraduate study at ShenYuan Honors College in Beihang University, majoring in Computer Science.
 
 My main research area lies in machine learning, with special interests in models and algorithms inspired by theoretical insights. Recently, I am focusing on designing expressive, efficient and effective Transformers and Graph Neural Networks with applications in Graph Learning, AI for Science and Natural Language Processing. I have published several papers <a href='https://scholar.google.com/citations?user=ImWO7WYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) and been reviewers at the top AI conferences such as NeurIPS, ICML and ICLR.
 
@@ -33,10 +33,10 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/URPE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/URPE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Your Transformer May Not be as Powerful as You Expect](https://arxiv.org/abs/2205.13401)
+[**NeurIPS 2022**] [Your Transformer May Not be as Powerful as You Expect](https://arxiv.org/abs/2205.13401)
 
 **Shengjie Luo**\*, Shanda Li\*, Shuxin Zheng, Tie-Yan Liu, Liwei Wang
 
@@ -45,10 +45,10 @@ If you are interested in collaborating with me or want to have a chat, always fe
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/Graphormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Graphormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Do Transformers Really Perform Badly for Graph Representation?](https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html)
+[**NeurIPS 2021**] [Do Transformers Really Perform Badly for Graph Representation?](https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html)
 
 Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu
 
@@ -57,10 +57,10 @@ Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Ya
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/kernel_rpe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/kernel_rpe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding](https://proceedings.neurips.cc/paper/2021/hash/c0f168ce8900fa56e57789e2a2f2c9d0-Abstract.html)
+[**NeurIPS 2021**] [Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding](https://proceedings.neurips.cc/paper/2021/hash/c0f168ce8900fa56e57789e2a2f2c9d0-Abstract.html)
 
 **Shengjie Luo**\*, Shanda Li\*, Tianle Cai, Dinglan Peng, Di He, Shuxin Zheng, Guolin Ke, Liwei Wang, Tie-Yan Liu
 
@@ -69,10 +69,10 @@ Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Ya
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/graphnorm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/graphnorm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training](https://proceedings.mlr.press/v139/cai21e)
+[**ICML 2021**] [GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training](https://proceedings.mlr.press/v139/cai21e)
 
 Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 
@@ -91,8 +91,8 @@ Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 - *2016.09 - 2020.07*,            Undergraduate Student, Shenyuan Honors College, Beihang University. 
 
 # 💬 Invited Talks
-- *2022.03*, Huawei Technologies Noah's Ark Lab, Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding.
-- *2022.02*, AI Time, Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding. \| [\[media\]](https://mp.weixin.qq.com/s/EjPEwcvbl0xWAmjeVbPpNg) 
+- *2022.03*, Huawei Technologies Noah's Ark Lab. Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding.
+- *2022.02*, AI Time. Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding. \| [\[media\]](https://mp.weixin.qq.com/s/EjPEwcvbl0xWAmjeVbPpNg) 
 
 # 💻 Internships
 - *2021.12 - now*,     Machine Learning Group, Microsoft Research Asia, China.
