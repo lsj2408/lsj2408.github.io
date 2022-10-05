@@ -105,6 +105,4 @@ Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 ---
 <center><sub>Visitor distribution </sub></center>
 
-<center>
-<a href='https://clustrmaps.com/site/1bqoc'  title='Visit Tracker'><img src='//clustrmaps.com/globe.js?d=dr5fouikEOHm7uz2Fbad0ouZVrWc6GgXdbKOPN3VGEs'/></a>
-</center>
+<a href="https://clustrmaps.com/site/1bqoc" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=dr5fouikEOHm7uz2Fbad0ouZVrWc6GgXdbKOPN3VGEs&cl=ffffff"></a>
