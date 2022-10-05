@@ -33,50 +33,50 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Your Transformer May Not be as Powerful as You Expect](https://arxiv.org/abs/2205.13401)
 
-**Shengjie Luo\* **, Shanda Li, Shuxin Zheng, Tie-Yan Liu, Liwei Wang
+**Shengjie Luo**\*, Shanda Li\*, Shuxin Zheng, Tie-Yan Liu, Liwei Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:_FxGoFyzp5QC)<strong><span class='show_paper_citations' data='ImWO7WYAAAAJ:_FxGoFyzp5QC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:_FxGoFyzp5QC)
 - TBA. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Your Transformer May Not be as Powerful as You Expect](https://arxiv.org/abs/2205.13401)
+[Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding](https://proceedings.neurips.cc/paper/2021/hash/c0f168ce8900fa56e57789e2a2f2c9d0-Abstract.html)
 
-**Shengjie Luo\* **, Shanda Li, Shuxin Zheng, Tie-Yan Liu, Liwei Wang
+**Shengjie Luo**\*, Shanda Li\*, Tianle Cai, Dinglan Peng, Di He, Shuxin Zheng, Guolin Ke, Liwei Wang, Tie-Yan Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:_FxGoFyzp5QC)<strong><span class='show_paper_citations' data='ImWO7WYAAAAJ:_FxGoFyzp5QC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:UeHWp8X0CEIC)
 - TBA. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Your Transformer May Not be as Powerful as You Expect](https://arxiv.org/abs/2205.13401)
+[Do Transformers Really Perform Badly for Graph Representation?](https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html)
 
-**Shengjie Luo\* **, Shanda Li, Shuxin Zheng, Tie-Yan Liu, Liwei Wang
+Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:_FxGoFyzp5QC)<strong><span class='show_paper_citations' data='ImWO7WYAAAAJ:_FxGoFyzp5QC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:zYLM7Y9cAGgC)<strong><span class='show_paper_citations' data='ImWO7WYAAAAJ:_FxGoFyzp5QC'></span></strong>
 - TBA. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Your Transformer May Not be as Powerful as You Expect](https://arxiv.org/abs/2205.13401)
+[GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training](https://proceedings.mlr.press/v139/cai21e)
 
-**Shengjie Luo\* **, Shanda Li, Shuxin Zheng, Tie-Yan Liu, Liwei Wang
+Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:_FxGoFyzp5QC)<strong><span class='show_paper_citations' data='ImWO7WYAAAAJ:_FxGoFyzp5QC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:IjCSPb-OGe4C)
 - TBA. 
 </div>
 </div>
