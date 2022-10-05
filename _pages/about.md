@@ -26,24 +26,60 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09*: One paper is accepted at NeurIPS 2022! 
+- *2021.09*: Two papers are accepted at NeurIPS 2021!
+- *2021.06*: Graphormer won the 1st place in [PCQM4M Track, OGB Large-Scale Challenge, KDD CUP 2021](https://ogb.stanford.edu/kddcup2021/results/#awardees-of-pcqm4m-lsc-track-leaderboard)!
+- *2021.05*: One paper is accepted at ICML 2021!
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Your Transformer May Not be as Powerful as You Expect](https://arxiv.org/abs/2205.13401)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Shengjie Luo\* **, Shanda Li, Shuxin Zheng, Tie-Yan Liu, Liwei Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:_FxGoFyzp5QC)<strong><span class='show_paper_citations' data='ImWO7WYAAAAJ:_FxGoFyzp5QC'></span></strong>
+- TBA. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Your Transformer May Not be as Powerful as You Expect](https://arxiv.org/abs/2205.13401)
+
+**Shengjie Luo\* **, Shanda Li, Shuxin Zheng, Tie-Yan Liu, Liwei Wang
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:_FxGoFyzp5QC)<strong><span class='show_paper_citations' data='ImWO7WYAAAAJ:_FxGoFyzp5QC'></span></strong>
+- TBA. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Your Transformer May Not be as Powerful as You Expect](https://arxiv.org/abs/2205.13401)
+
+**Shengjie Luo\* **, Shanda Li, Shuxin Zheng, Tie-Yan Liu, Liwei Wang
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:_FxGoFyzp5QC)<strong><span class='show_paper_citations' data='ImWO7WYAAAAJ:_FxGoFyzp5QC'></span></strong>
+- TBA. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Your Transformer May Not be as Powerful as You Expect](https://arxiv.org/abs/2205.13401)
+
+**Shengjie Luo\* **, Shanda Li, Shuxin Zheng, Tie-Yan Liu, Liwei Wang
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:_FxGoFyzp5QC)<strong><span class='show_paper_citations' data='ImWO7WYAAAAJ:_FxGoFyzp5QC'></span></strong>
+- TBA. 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.06* 1st place Winner of PCQM4M Track, OGB Large Scale Challenge, KDD CUP 2021.
