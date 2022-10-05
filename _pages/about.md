@@ -40,10 +40,10 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 **Shengjie Luo**\*, Shanda Li\*, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:_FxGoFyzp5QC)
+[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:_FxGoFyzp5QC)
 - We mathematically analyze the expressive power of RPE-based Transformers, and show that they are not universal approximators of continuous sequence-to-sequence functions.
-- We then present sufficient conditions for RPE-based Transformers to achieve universal function approximation, and develop Universal RPE-based (URPE) Attention.
-- Our URPE-based Transformers are verified to be universal approximators from both theoretical analysis and extensive experiments.
+- We then present sufficient conditions for RPE-based Transformers to achieve universal function approximation. With the theoretical guidance, we develop Universal RPE-based (URPE) Attention, which is easy to implement and parameter-efficient.
+- Our URPE-based Transformers are verified to be universal approximators from both theoretical analysis and extensive experiments including synthetic tasks, language modeling and graph learning.
 </div>
 </div>
 
@@ -54,8 +54,10 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:zYLM7Y9cAGgC)<strong><span class='show_paper_citations' data='ImWO7WYAAAAJ:_FxGoFyzp5QC'></span></strong>
-- TBA. 
+[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:zYLM7Y9cAGgC) [**[Code]**](https://github.com/microsoft/Graphormer)
+- Make Transformer great again on graph classification by introducing three graph structural encodings.
+- Achieve SOTA performance on several benchmarks covering [OGB](https://ogb.stanford.edu/) and [Benchmarking GNNs](https://arxiv.org/abs/2203.04810).
+- [1st place winner of PCQM4M Track, OGB Large-Scale Challenge, KDD CUP 2021](https://ogb.stanford.edu/kddcup2021/results/#awardees-of-pcqm4m-lsc-track-leaderboard).
 </div>
 </div>
 
@@ -66,8 +68,11 @@ Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Ya
 
 **Shengjie Luo**\*, Shanda Li\*, Tianle Cai, Dinglan Peng, Di He, Shuxin Zheng, Guolin Ke, Liwei Wang, Tie-Yan Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:UeHWp8X0CEIC)
-- TBA. 
+[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:UeHWp8X0CEIC) [**[Code]**](https://openreview.net/forum?id=X7XNPor93uG)
+- We propose a novel way to accelerate attention calculation (O(nlog(n)) for Transformers with RPE on top of the kernelized attention.
+- We mathematically show that kernelized attention with RPE can be calculated efficiently using Fast Fourier Transform (FFT), based on the Toeplitz matrix form of RPE.
+- We further demonstrate that properly using RPE can mitigate the training instability problem of vanilla kernelized attention.
+- Extensive experiments covering language pre-training, language modeling, Image Classification and Machine Translation are conducted to demonstrate the efficiency and effectiveness of our model.
 </div>
 </div>
 
@@ -79,7 +84,9 @@ Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Ya
 Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:IjCSPb-OGe4C)
-- TBA. 
+- We theoretically study the preconditioning effect of normalization methods on GNN training, and empirically observe that the batch noise of graph data is larger than data from other domain, e.g. image data.
+- We further show that the shift operation in InstanceNorm can cause expressiveness degradation of GNNs for highly regular graphs.
+- Based on these findings, we propose a principled normalization scheme, GraphNorm, and demonstrate its acceleration effect on graph classification benchmarks.
 </div>
 </div>
 
