@@ -32,6 +32,20 @@ If you are interested in collaborating with me or want to have a chat, always fe
 - *2021.05*: One paper is accepted at ICML 2021!
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Transformer-M.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Preprint**] [One Transformer Can Understand Both 2D & 3D Molecular Data](https://arxiv.org/abs/2210.01765)
+
+**Shengjie Luo**, Tianlang Chen\*, Yixian Xu\*, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He
+
+[**[Project]**](https://arxiv.org/abs/2210.01765) [**[Code]**](https://github.com/lsj2408/Transformer-M) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/one-transformer-can-understand-both-2d-3d/graph-regression-on-pcqm4mv2-lsc)](https://paperswithcode.com/sota/graph-regression-on-pcqm4mv2-lsc?p=one-transformer-can-understand-both-2d-3d)
+- We develop a novel Transformer-based Molecular model called Transformer-M, which can take molecular data of 2D or 3D formats as input and generate meaningful semantic representations.
+- Using the standard Transformer as the backbone architecture, Transformer-M develops two separated channels to encode 2D and 3D structural information and incorporate them with the atom features in the network modules. When the input data is in a particular format, the corresponding channel will be activated, and the other will be disabled.
+- We conduct extensive experiments to show that Transformer-M can simultaneously achieve strong performance on 2D and 3D tasks (PCQM4Mv2 (2D), PDBBind (2D+3D), QM9 (3D)), suggesting its broad applicability.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/URPE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,7 +68,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu
 
-[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:zYLM7Y9cAGgC) [**[Code]**](https://github.com/microsoft/Graphormer)
+[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:zYLM7Y9cAGgC) [**[Code]**](https://github.com/microsoft/Graphormer) [**[Technical Report]**](https://arxiv.org/abs/2106.08279)
 - Make Transformer great again on graph classification by introducing three graph structural encodings.
 - Achieve SOTA performance on several benchmarks covering [OGB](https://ogb.stanford.edu/) and [Benchmarking GNNs](https://arxiv.org/abs/2203.04810).
 - [1st place winner of PCQM4M Track, OGB Large-Scale Challenge, KDD CUP 2021](https://ogb.stanford.edu/kddcup2021/results/#awardees-of-pcqm4m-lsc-track-leaderboard).
@@ -83,7 +97,7 @@ Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Ya
 
 Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:IjCSPb-OGe4C)
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:IjCSPb-OGe4C) [**[Code]**](https://github.com/lsj2408/GraphNorm)
 - We theoretically study the preconditioning effect of normalization methods on GNN training, and empirically observe that the batch noise of graph data is larger than data from other domain, e.g. image data.
 - We further show that the shift operation in InstanceNorm can cause expressiveness degradation of GNNs for highly regular graphs.
 - Based on these findings, we propose a principled normalization scheme, GraphNorm, and demonstrate its acceleration effect on graph classification benchmarks.
