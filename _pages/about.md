@@ -38,7 +38,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 [**NeurIPS 2022**] [Your Transformer May Not be as Powerful as You Expect](https://arxiv.org/abs/2205.13401)
 
-**Shengjie Luo**\*, Shanda Li\*, Shuxin Zheng, Tie-Yan Liu, Liwei Wang
+**Shengjie Luo**\*, Shanda Li\*, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:_FxGoFyzp5QC)
 - TBA. 
