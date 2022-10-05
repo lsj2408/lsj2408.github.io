@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Shengjie Luo, a third-year PhD student at School of Intelligence Science and Technology in Peking University, advised by [Prof.Liwei Wang](http://www.liweiwang-pku.com/) and [Prof.Di He](https://dihe-pku.github.io/). Before that, I finished my undergraduate study at ShenYuan Honors College in Beihang University, majoring in Computer Science.
+Hi! I am Shengjie Luo, a first-year Ph.D. student at School of Intelligence Science and Technology in Peking University, advised by [Prof.Liwei Wang](http://www.liweiwang-pku.com/) and [Prof.Di He](https://dihe-pku.github.io/). Before that, I finished my undergraduate study at ShenYuan Honors College in Beihang University, majoring in Computer Science.
 
 My main research area lies in machine learning, with special interests in models and algorithms inspired by theoretical insights. Recently, I am focusing on designing expressive, efficient and effective Transformers and Graph Neural Networks with applications in Graph Learning, AI for Science and Natural Language Processing. I have published several papers and been reviewers at the top machine learning and artificial intelligence conferences such as NeurIPS, ICML and ICLR.
 
@@ -41,7 +41,9 @@ If you are interested in collaborating with me or want to have a chat, always fe
 **Shengjie Luo**\*, Shanda Li\*, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:_FxGoFyzp5QC)
-- TBA. 
+- We mathematically analyze the expressive power of RPE-based Transformers, and show that they are not universal approximators of continuous sequence-to-sequence functions.
+- We then present sufficient conditions for RPE-based Transformers to achieve universal function approximation, and develop Universal RPE-based (URPE) Attention.
+- Our URPE-based Transformers are verified to be universal approximators from both theoretical analysis and extensive experiments.
 </div>
 </div>
 
@@ -82,17 +84,17 @@ Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 </div>
 
 # 🎖 Honors and Awards
-- *2021.06* 1st place Winner of PCQM4M Track, OGB Large Scale Challenge, KDD CUP 2021.
-- *2018.12* National Scholarship (Top 1%). 
+- *2021.06*, 1st place Winner of PCQM4M Track, OGB Large Scale Challenge, KDD CUP 2021.
+- *2018.12*, National Scholarship (Top 1%). 
 
 # 📖 Educations
-- *2022.09 - 2025.07 (expected)*, PhD Student, School of Intelligence Science and Technology, Peking University.
+- *2022.09 - 2025.07 (expected)*, Ph.D. Student, School of Intelligence Science and Technology, Peking University.
 - *2020.09 - 2022.07*,            Master Student, Academy for Advanced Interdisciplinary Studies, Peking University. 
 - *2016.09 - 2020.07*,            Undergraduate Student, Shenyuan Honors College, Beihang University. 
 
 # 💬 Invited Talks
-- *2022.03*, Huawei Technologies Noah's Ark Lab. Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding.
-- *2022.02*, AI Time. Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding. \| [\[media\]](https://mp.weixin.qq.com/s/EjPEwcvbl0xWAmjeVbPpNg) 
+- *2022.03*, [Huawei Technologies Noah's Ark Lab](https://noahlab.com.hk/#/home). Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding.
+- *2022.02*, [AI Time](http://www.aitime.cn/). Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding. \| [\[media\]](https://mp.weixin.qq.com/s/EjPEwcvbl0xWAmjeVbPpNg) 
 
 # 💻 Internships
 - *2021.12 - now*,     Machine Learning Group, Microsoft Research Asia, China.
