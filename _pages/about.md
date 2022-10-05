@@ -31,7 +31,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 - *2021.06*: Graphormer won the 1st place in [PCQM4M Track, OGB Large-Scale Challenge, KDD CUP 2021](https://ogb.stanford.edu/kddcup2021/results/#awardees-of-pcqm4m-lsc-track-leaderboard)!
 - *2021.05*: One paper is accepted at ICML 2021!
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/URPE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
