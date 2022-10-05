@@ -97,7 +97,7 @@ Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Ya
 
 Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:IjCSPb-OGe4C) [**[Code]**](https://github.com/lsj2408/GraphNorm)
+[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:IjCSPb-OGe4C) [**[Code (Official)]**](https://github.com/lsj2408/GraphNorm) [**[Code (PyG)]**](https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#torch_geometric.nn.norm.GraphNorm) [**[Code (Microsoft ptgnn)]**](https://github.com/microsoft/ptgnn/blob/d30cb0d5858d026c6db2ec28bec840856c0d2d30/ptgnn/neuralmodels/gnn/messagepassing/graphnorm.py)
 - We theoretically study the preconditioning effect of normalization methods on GNN training, and empirically observe that the batch noise of graph data is larger than data from other domain, e.g. image data.
 - We further show that the shift operation in InstanceNorm can cause expressiveness degradation of GNNs for highly regular graphs.
 - Based on these findings, we propose a principled normalization scheme, GraphNorm, and demonstrate its acceleration effect on graph classification benchmarks.
