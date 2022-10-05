@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Shengjie Luo, a first-year Ph.D. student at School of Intelligence Science and Technology in Peking University, advised by [Prof.Liwei Wang](http://www.liweiwang-pku.com/) and [Prof.Di He](https://dihe-pku.github.io/). Before that, I finished my undergraduate study at ShenYuan Honors College in Beihang University, majoring in Computer Science.
+Hi! I am Shengjie Luo, a first-year Ph.D. student at School of Intelligence Science and Technology in Peking University, advised by [Prof.Liwei Wang](http://www.liweiwang-pku.com/) and [Prof.Di He](https://dihe-pku.github.io/). Before that, I finished my undergraduate study at ShenYuan Honors College in Beihang University, majoring in Computer Science. I have been a research intern at [Microsoft Research Asia](https://www.msra.cn/).
 
-My main research area lies in machine learning, with special interests in models and algorithms inspired by theoretical insights. Recently, I am focusing on designing expressive, efficient and effective Transformers and Graph Neural Networks with applications in Graph Learning, AI for Science and Natural Language Processing. I have published several papers and been reviewers at the top machine learning and artificial intelligence conferences such as NeurIPS, ICML and ICLR.
+My main research area lies in machine learning, with special interests in models and algorithms inspired by theoretical insights. Recently, my works focus on representation learning on structured data (e.g., graphs and sequences) and provide comprehensive analysis on base architectures (Transformers, GNNs) covering their expressiveness, efficiency and effectiveness, as well as apply them to Graph Learning, AI for Science and Natural Language Processing. I have published several papers and been reviewers at the top machine learning and artificial intelligence conferences such as NeurIPS, ICML and ICLR.
 
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or WeChat :)
 
