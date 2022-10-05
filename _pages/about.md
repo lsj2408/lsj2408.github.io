@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I am Shengjie Luo, a third-year PhD student at School of Intelligence Science and Technology in Peking University, advised by [Prof.Liwei Wang](http://www.liweiwang-pku.com/) and [Prof.Di He](https://dihe-pku.github.io/). Before that, I finished my undergraduate study at ShenYuan Honors College in Beihang University, majoring in Computer Science.
 
-My main research area lies in machine learning, with special interests in models and algorithms inspired by theoretical insights. Recently, I am focusing on designing expressive, efficient and effective Transformers and Graph Neural Networks with applications in Graph Learning, AI for Science and Natural Language Processing. I have published several papers <a href='https://scholar.google.com/citations?user=ImWO7WYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) and been reviewers at the top AI conferences such as NeurIPS, ICML and ICLR.
+My main research area lies in machine learning, with special interests in models and algorithms inspired by theoretical insights. Recently, I am focusing on designing expressive, efficient and effective Transformers and Graph Neural Networks with applications in Graph Learning, AI for Science and Natural Language Processing. I have published several papers and been reviewers at the top machine learning and artificial intelligence conferences such as NeurIPS, ICML and ICLR.
 
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or WeChat :)
 
