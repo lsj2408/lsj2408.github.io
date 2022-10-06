@@ -115,14 +115,14 @@ Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 - *2020.09 - 2022.07*,            Master Student, Academy for Advanced Interdisciplinary Studies, Peking University. 
 - *2016.09 - 2020.07*,            Undergraduate Student, Shenyuan Honors College, Beihang University. 
 
-# 💬 Invited Talks
-- *2022.03*, [Huawei Technologies Noah's Ark Lab](https://noahlab.com.hk/#/home). Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding.
-- *2022.02*, [AI Time](http://www.aitime.cn/). Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding. \| [\[media\]](https://mp.weixin.qq.com/s/EjPEwcvbl0xWAmjeVbPpNg) 
-
 # 💻 Internships
 - *2021.12 - now*,     Machine Learning Group, Microsoft Research Asia, China.
 - *2020.10 - 2021.06*, Machine Learning Group, Microsoft Research Asia, China.
 - *2019.10 - 2020.06*, Natural Language Computing Group, Microsoft Research Asia, China.
+
+# 💬 Invited Talks
+- *2022.03*, [Huawei Technologies Noah's Ark Lab](https://noahlab.com.hk/#/home). Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding.
+- *2022.02*, [AI Time](http://www.aitime.cn/). Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding. \| [\[media\]](https://mp.weixin.qq.com/s/EjPEwcvbl0xWAmjeVbPpNg) 
 
 # 🏫 Professional Services
 - Reviewer for ICLR 2022, NeurIPS 2022, LOG 2022.
