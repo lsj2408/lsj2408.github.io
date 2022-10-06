@@ -97,9 +97,7 @@ Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Ya
 
 Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 
-[**[Project]**](https://icml.cc/virtual/2021/poster/10655) [**[Code (Official)]**](https://github.com/lsj2408/GraphNorm) [**[Code (PyG)]**](https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#torch_geometric.nn.norm.GraphNorm) [**[Code (Microsoft ptgnn)]**](https://github.com/microsoft/ptgnn/blob/d30cb0d5858d026c6db2ec28bec840856c0d2d30/ptgnn/neuralmodels/gnn/messagepassing/graphnorm.py)
-
-[**[Slides]**](https://icml.cc/media/icml-2021/Slides/10655_KLtUTML.pdf) [**[Video]**](https://slideslive.com/38959667/graphnorm-a-principled-approach-to-accelerating-graph-neural-network-training?ref=search-presentations-GraphNorm)
+[**[Project]**](https://icml.cc/virtual/2021/poster/10655) [**[Code (Official)]**](https://github.com/lsj2408/GraphNorm) [**[Code (PyG)]**](https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#torch_geometric.nn.norm.GraphNorm) [**[Code (Microsoft ptgnn)]**](https://github.com/microsoft/ptgnn/blob/d30cb0d5858d026c6db2ec28bec840856c0d2d30/ptgnn/neuralmodels/gnn/messagepassing/graphnorm.py) [**[Slides]**](https://icml.cc/media/icml-2021/Slides/10655_KLtUTML.pdf) [**[Video]**](https://slideslive.com/38959667/graphnorm-a-principled-approach-to-accelerating-graph-neural-network-training?ref=search-presentations-GraphNorm)
 - We theoretically study the preconditioning effect of normalization methods on GNN training, and empirically observe that the batch noise of graph data is larger than data from other domain, e.g. image data.
 - We further show that the shift operation in InstanceNorm can cause expressiveness degradation of GNNs for highly regular graphs.
 - Based on these findings, we propose a principled normalization scheme, GraphNorm, and demonstrate its acceleration effect on graph learning benchmarks.
