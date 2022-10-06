@@ -68,7 +68,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu
 
-[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:zYLM7Y9cAGgC) [**[Code]**](https://github.com/microsoft/Graphormer) [**[Technical Report]**](https://arxiv.org/abs/2106.08279)
+[**[Project]**](https://neurips.cc/virtual/2021/poster/27679) [**[Code]**](https://github.com/microsoft/Graphormer) [**[Technical Report]**](https://arxiv.org/abs/2106.08279)
 - Make Transformer great again on graph classification by introducing three graph structural encodings.
 - Achieve SOTA performance on several benchmarks covering [OGB](https://ogb.stanford.edu/) and [Benchmarking GNNs](https://arxiv.org/abs/2203.04810).
 - 1st place winner of [PCQM4M Track, OGB Large-Scale Challenge, KDD CUP 2021](https://ogb.stanford.edu/kddcup2021/results/#awardees-of-pcqm4m-lsc-track-leaderboard).
@@ -82,7 +82,7 @@ Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Ya
 
 **Shengjie Luo**\*, Shanda Li\*, Tianle Cai, Dinglan Peng, Di He, Shuxin Zheng, Guolin Ke, Liwei Wang, Tie-Yan Liu
 
-[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:UeHWp8X0CEIC) [**[Code]**](https://openreview.net/forum?id=X7XNPor93uG)
+[**[Project]**](https://neurips.cc/virtual/2021/poster/27095) [**[Code]**](https://openreview.net/forum?id=X7XNPor93uG)
 - We propose a novel way to accelerate attention calculation (O(nlog(n)) for Transformers with RPE on top of the kernelized attention.
 - We mathematically show that kernelized attention with RPE can be calculated efficiently using Fast Fourier Transform (FFT), based on the Toeplitz matrix form of RPE.
 - We further demonstrate that properly using RPE can mitigate the training instability problem of vanilla kernelized attention.
@@ -97,7 +97,7 @@ Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Ya
 
 Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 
-[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:IjCSPb-OGe4C) [**[Code (Official)]**](https://github.com/lsj2408/GraphNorm) [**[Code (PyG)]**](https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#torch_geometric.nn.norm.GraphNorm) [**[Code (Microsoft ptgnn)]**](https://github.com/microsoft/ptgnn/blob/d30cb0d5858d026c6db2ec28bec840856c0d2d30/ptgnn/neuralmodels/gnn/messagepassing/graphnorm.py)
+[**[Project]**](https://icml.cc/virtual/2021/poster/10655) [**[Code (Official)]**](https://github.com/lsj2408/GraphNorm) [**[Code (PyG)]**](https://pytorch-geometric.readthedocs.io/en/latest/modules/nn.html#torch_geometric.nn.norm.GraphNorm) [**[Code (Microsoft ptgnn)]**](https://github.com/microsoft/ptgnn/blob/d30cb0d5858d026c6db2ec28bec840856c0d2d30/ptgnn/neuralmodels/gnn/messagepassing/graphnorm.py)
 - We theoretically study the preconditioning effect of normalization methods on GNN training, and empirically observe that the batch noise of graph data is larger than data from other domain, e.g. image data.
 - We further show that the shift operation in InstanceNorm can cause expressiveness degradation of GNNs for highly regular graphs.
 - Based on these findings, we propose a principled normalization scheme, GraphNorm, and demonstrate its acceleration effect on graph classification benchmarks.
