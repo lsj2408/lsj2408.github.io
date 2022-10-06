@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shengjie Luo (罗胜杰)"
-description              : "PhD Student at Peking University. Focusing on Machine Learning."
+description              : "Ph.D. Student at Peking University. Focusing on Machine Learning."
 repository               : "lsj2408/lsj2408.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  code-ExFNjCK19n
 
 # Site Author
 author:
-  name             : "Shengjie Luo"
+  name             : "Shengjie Luo (罗胜杰)"
   avatar           : "images/lsj.png"
   bio              : "Peking University"
   location         : "Beijing, China"
