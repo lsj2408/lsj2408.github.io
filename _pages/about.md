@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I am Shengjie Luo (罗胜杰), a first-year Ph.D. student at School of Intelligence Science and Technology in Peking University, advised by [Prof.Liwei Wang](http://www.liweiwang-pku.com/) and [Prof.Di He](https://dihe-pku.github.io/). Before that, I finished my undergraduate study at ShenYuan Honors College in Beihang University, majoring in Computer Science. I have been a research intern at [Microsoft Research Asia](https://www.msra.cn/).
 
-My main research area lies in machine learning, with special interests in models and algorithms inspired by theoretical insights. Recently, my works focus on representation learning on structured data (e.g., graphs and sequences) and provide comprehensive analysis on base architectures (Transformers, GNNs) covering their expressiveness, efficiency and effectiveness, as well as apply them to Graph Learning, AI for Science and Natural Language Processing. I have published several papers and been reviewers at the top machine learning and artificial intelligence conferences such as NeurIPS, ICML and ICLR.
+My main research area lies in machine learning, with special interests in models and algorithms inspired by theoretical insights. Recently, my works focus on representation learning on structured data (e.g., graphs and sequences) and provide comprehensive analysis on base architectures (Transformers, GNNs) covering their expressiveness, efficiency and effectiveness, as well as apply them to AI for Science, Graph Learning and Natural Language Processing. I have published several papers and been reviewers at the top machine learning and artificial intelligence conferences such as NeurIPS, ICML and ICLR.
 
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or WeChat :)
 
@@ -71,7 +71,7 @@ Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Ya
 [**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:zYLM7Y9cAGgC) [**[Code]**](https://github.com/microsoft/Graphormer) [**[Technical Report]**](https://arxiv.org/abs/2106.08279)
 - Make Transformer great again on graph classification by introducing three graph structural encodings.
 - Achieve SOTA performance on several benchmarks covering [OGB](https://ogb.stanford.edu/) and [Benchmarking GNNs](https://arxiv.org/abs/2203.04810).
-- [1st place winner of PCQM4M Track, OGB Large-Scale Challenge, KDD CUP 2021](https://ogb.stanford.edu/kddcup2021/results/#awardees-of-pcqm4m-lsc-track-leaderboard).
+- 1st place winner of [PCQM4M Track, OGB Large-Scale Challenge, KDD CUP 2021](https://ogb.stanford.edu/kddcup2021/results/#awardees-of-pcqm4m-lsc-track-leaderboard).
 </div>
 </div>
 
