@@ -35,11 +35,11 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Transformer-M.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Preprint**] [One Transformer Can Understand Both 2D & 3D Molecular Data](https://arxiv.org/abs/2210.01765)
+[**Preprint**] [**One Transformer Can Understand Both 2D & 3D Molecular Data**](https://arxiv.org/abs/2210.01765)
 
 **Shengjie Luo**, Tianlang Chen\*, Yixian Xu\*, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He
 
-[**[Project]**](https://arxiv.org/abs/2210.01765) [**[Code]**](https://github.com/lsj2408/Transformer-M) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/one-transformer-can-understand-both-2d-3d/graph-regression-on-pcqm4mv2-lsc)](https://paperswithcode.com/sota/graph-regression-on-pcqm4mv2-lsc?p=one-transformer-can-understand-both-2d-3d)
+[**[Project]**](https://ogb.stanford.edu/docs/lsc/leaderboards/#pcqm4mv2) [**[Code]**](https://github.com/lsj2408/Transformer-M) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/one-transformer-can-understand-both-2d-3d/graph-regression-on-pcqm4mv2-lsc)](https://paperswithcode.com/sota/graph-regression-on-pcqm4mv2-lsc?p=one-transformer-can-understand-both-2d-3d)
 - We develop a novel Transformer-based Molecular model called Transformer-M, which can take molecular data of 2D or 3D formats as input and generate meaningful semantic representations.
 - Using the standard Transformer as the backbone architecture, Transformer-M develops two separated channels to encode 2D and 3D structural information and incorporate them with the atom features in the network modules. When the input data is in a particular format, the corresponding channel will be activated, and the other will be disabled.
 - We conduct extensive experiments to show that Transformer-M can simultaneously achieve strong performance on 2D and 3D tasks (PCQM4Mv2 (2D), PDBBind (2D+3D), QM9 (3D)), suggesting its broad applicability.
@@ -50,7 +50,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/URPE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**NeurIPS 2022**] [Your Transformer May Not be as Powerful as You Expect](https://arxiv.org/abs/2205.13401)
+[**NeurIPS 2022**] [**Your Transformer May Not be as Powerful as You Expect**](https://arxiv.org/abs/2205.13401)
 
 **Shengjie Luo**\*, Shanda Li\*, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He
 
@@ -64,7 +64,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Graphormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**NeurIPS 2021**] [Do Transformers Really Perform Badly for Graph Representation?](https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html)
+[**NeurIPS 2021**] [**Do Transformers Really Perform Badly for Graph Representation?**](https://proceedings.neurips.cc/paper/2021/hash/f1c1592588411002af340cbaedd6fc33-Abstract.html)
 
 Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu
 
@@ -78,7 +78,7 @@ Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Ya
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/kernel_rpe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**NeurIPS 2021**] [Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding](https://proceedings.neurips.cc/paper/2021/hash/c0f168ce8900fa56e57789e2a2f2c9d0-Abstract.html)
+[**NeurIPS 2021**] [**Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding**](https://proceedings.neurips.cc/paper/2021/hash/c0f168ce8900fa56e57789e2a2f2c9d0-Abstract.html)
 
 **Shengjie Luo**\*, Shanda Li\*, Tianle Cai, Dinglan Peng, Di He, Shuxin Zheng, Guolin Ke, Liwei Wang, Tie-Yan Liu
 
@@ -93,7 +93,7 @@ Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Ya
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/graphnorm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICML 2021**] [GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training](https://proceedings.mlr.press/v139/cai21e)
+[**ICML 2021**] [**GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training**](https://proceedings.mlr.press/v139/cai21e)
 
 Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 
