@@ -43,6 +43,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 - We develop a novel Transformer-based Molecular model called Transformer-M, which can take molecular data of 2D or 3D formats as input and generate meaningful semantic representations.
 - Using the standard Transformer as the backbone architecture, Transformer-M develops two separated channels to encode 2D and 3D structural information and incorporate them with the atom features in the network modules. When the input data is in a particular format, the corresponding channel will be activated, and the other will be disabled.
 - We conduct extensive experiments to show that Transformer-M can simultaneously achieve strong performance on 2D and 3D tasks (PCQM4Mv2 (2D), PDBBind (2D+3D), QM9 (3D)), suggesting its broad applicability.
+- 🚀 Transformer-M has been used by **all Top-3 winners** in [**PCQM4Mv2 Track, 2nd OGB Large-Scale Challenge, NeurIPS 2022**](https://ogb.stanford.edu/neurips2022/results/#winners_pcqm4mv2)!
 </div>
 </div>
 
@@ -121,6 +122,8 @@ Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 - *2019.10 - 2020.06*, Natural Language Computing Group, Microsoft Research Asia, China.
 
 # 💬 Invited Talks
+- *2022.11*, [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/). Your Transformer May Not be as Powerful as You Expect.
+- *2022.11*, [AI Time](http://www.aitime.cn/). Your Transformer May Not be as Powerful as You Expect. \| [\[media\]](https://mp.weixin.qq.com/s/K14ASCTPrVpenPo95Ti3LA) 
 - *2022.03*, [Huawei Technologies Noah's Ark Lab](https://noahlab.com.hk/#/home). Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding.
 - *2022.02*, [AI Time](http://www.aitime.cn/). Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding. \| [\[media\]](https://mp.weixin.qq.com/s/EjPEwcvbl0xWAmjeVbPpNg) 
 
