@@ -26,6 +26,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🔥 News
+- *2023.01*: Two papers are accepted at ICLR 2023!
+- *2022.11*: Transformer-M has been used by all Top-3 winners in [PCQM4Mv2 Track, 2nd OGB Large-Scale Challenge, NeurIPS 2022](https://ogb.stanford.edu/neurips2022/results/#winners_pcqm4mv2)!
 - *2022.09*: One paper is accepted at NeurIPS 2022! 
 - *2021.09*: Two papers are accepted at NeurIPS 2021!
 - *2021.06*: Graphormer won the 1st place in [PCQM4M Track, OGB Large-Scale Challenge, KDD CUP 2021](https://ogb.stanford.edu/kddcup2021/results/#awardees-of-pcqm4m-lsc-track-leaderboard)!
@@ -35,7 +37,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Transformer-M.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Preprint**] [One Transformer Can Understand Both 2D & 3D Molecular Data](https://arxiv.org/abs/2210.01765)
+[**ICLR 2023**] [One Transformer Can Understand Both 2D & 3D Molecular Data](https://arxiv.org/abs/2210.01765)
 
 **Shengjie Luo**, Tianlang Chen\*, Yixian Xu\*, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He
 
