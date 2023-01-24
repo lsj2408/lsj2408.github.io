@@ -34,6 +34,22 @@ If you are interested in collaborating with me or want to have a chat, always fe
 - *2021.05*: One paper is accepted at ICML 2021!
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Graphormer-GD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ICLR 2023 Oral**] [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505)
+
+Bohang Zhang\*, **Shengjie Luo**\*, Liwei Wang, Di He
+
+[**[Project]**](https://openreview.net/forum?id=r9hNv76KoT3)
+- Beyond the WL test, we propose a fundamentally different perspective, a novel class of expressivity metrics via 🚀**Graph Biconnectivity**🚀, to study the expressive power of GNNs.
+- Through the lens of graph biconnectivity, we systematically investigate popular GNNs including classic MPNNs, Graph Substructure Networks (GSN) and its
+variant, GNN with lifting transformations (MPSN and CWN), GraphSNN, and Subgraph GNNs. The thorough analysis provide a fine-grained understanding on the expressive power of existing GNNs.
+- Based on the above theoretical analysis, we develop a principled and more efficient approach, called the Generalized Distance Weisfeiler-Lehman (GD-WL), which is provably expressive for all biconnectivity metrics. 
+- We further develop Graphormer-GD to implement the GD-WL, which is a Transformer-like architecture that preserves expressiveness and enjoys full parallelizability. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Transformer-M.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
