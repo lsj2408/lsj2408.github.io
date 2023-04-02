@@ -26,7 +26,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🔥 News
-- *2023.03*: Our paper "Rethinking the Expressive Power of GNNs via Graph Biconnectivity" received the ICLR 2023 **<font color="#DC143C">Outstanding paper award</font>** (top 4/4966)!
+- *2023.03*: Our paper "Rethinking the Expressive Power of GNNs via Graph Biconnectivity" received the  
+             **<font color="#DC143C">ICLR 2023 Outstanding Paper Award</font>** (top 4/4966)!
 - *2023.01*: Two papers are accepted at ICLR 2023!
 - *2022.11*: Transformer-M has been used by all Top-3 winners in [PCQM4Mv2 Track, 2nd OGB Large-Scale Challenge, NeurIPS 2022](https://ogb.stanford.edu/neurips2022/results/#winners_pcqm4mv2)!
 - *2022.09*: One paper is accepted at NeurIPS 2022! 
@@ -38,11 +39,11 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Graphormer-GD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICLR 2023 Oral**] [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505)
+[**ICLR 2023 <font color="#DC143C">Outstanding Paper Award</font>**] [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505)
 
 Bohang Zhang\*, **Shengjie Luo**\*, Liwei Wang, Di He
 
-[**[Project]**](https://openreview.net/forum?id=r9hNv76KoT3)
+[**[Project]**](https://openreview.net/forum?id=r9hNv76KoT3) [**[Code]**](https://github.com/lsj2408/Graphormer-GD)
 - Beyond the WL test, we propose a fundamentally different perspective, a novel class of expressivity metrics via 🚀**Graph Biconnectivity**🚀, to study the expressive power of GNNs.
 - Through the lens of graph biconnectivity, we systematically investigate popular GNNs including classic MPNNs, Graph Substructure Networks (GSN) and its
 variant, GNN with lifting transformations (MPSN and CWN), GraphSNN, and Subgraph GNNs. The thorough analysis provide a fine-grained understanding on the expressive power of existing GNNs.
