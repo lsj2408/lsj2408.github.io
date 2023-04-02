@@ -128,6 +128,7 @@ Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 </div>
 
 # 🎖 Honors and Awards
+- *2023.03*, ICLR 2023 **<font color="#DC143C">Outstanding Paper Award</font>** (top 4/4966)
 - *2021.06*, 1st place Winner of PCQM4M Track, OGB Large Scale Challenge, KDD CUP 2021.
 - *2018.12*, National Scholarship (Top 1%). 
 
