@@ -26,6 +26,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🔥 News
+- *2023.03*: Our paper "Rethinking the Expressive Power of GNNs via Graph Biconnectivity" received the ICLR 2023 **<font color="#DC143C">Outstanding paper award</font>** (top 4/4966)!
 - *2023.01*: Two papers are accepted at ICLR 2023!
 - *2022.11*: Transformer-M has been used by all Top-3 winners in [PCQM4Mv2 Track, 2nd OGB Large-Scale Challenge, NeurIPS 2022](https://ogb.stanford.edu/neurips2022/results/#winners_pcqm4mv2)!
 - *2022.09*: One paper is accepted at NeurIPS 2022! 
