@@ -27,7 +27,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # 🔥 News
 - *2023.03*: Our paper "Rethinking the Expressive Power of GNNs via Graph Biconnectivity" received the  
-             **<font color="#DC143C">ICLR 2023 Outstanding Paper Award</font>** (top 4/4966)!
+             **<font color="#DC143C">ICLR 2023 Outstanding Paper Award</font>** (top 4/4966)![**[Link]**](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/)
 - *2023.01*: Two papers are accepted at ICLR 2023!
 - *2022.11*: Transformer-M has been used by all Top-3 winners in [PCQM4Mv2 Track, 2nd OGB Large-Scale Challenge, NeurIPS 2022](https://ogb.stanford.edu/neurips2022/results/#winners_pcqm4mv2)!
 - *2022.09*: One paper is accepted at NeurIPS 2022! 
@@ -128,7 +128,7 @@ Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 </div>
 
 # 🎖 Honors and Awards
-- *2023.03*, ICLR 2023 **<font color="#DC143C">Outstanding Paper Award</font>** (top 4/4966)
+- *2023.03*, ICLR 2023 **<font color="#DC143C">Outstanding Paper Award</font>** (top 4/4966)[**[Link]**](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/).
 - *2021.06*, 1st place Winner of PCQM4M Track, OGB Large Scale Challenge, KDD CUP 2021.
 - *2018.12*, National Scholarship (Top 1%). 
 
@@ -149,7 +149,7 @@ Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 - *2022.02*, [AI Time](http://www.aitime.cn/). Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding. \| [\[media\]](https://mp.weixin.qq.com/s/EjPEwcvbl0xWAmjeVbPpNg) 
 
 # 🏫 Professional Services
-- Reviewer for ICLR 2022, NeurIPS 2022, LOG 2022, ICML 2023.
+- Reviewer for ICLR 2022, NeurIPS 2022, LOG 2022, ICML 2023, NeurIPS 2023.
 
 ---
 <center><sub>Visitor distribution </sub></center>
