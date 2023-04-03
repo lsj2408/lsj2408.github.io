@@ -75,7 +75,7 @@ variant, GNN with lifting transformations (MPSN and CWN), GraphSNN, and Subgraph
 
 **Shengjie Luo**\*, Shanda Li\*, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He
 
-[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:_FxGoFyzp5QC)
+[**[Project]**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=ImWO7WYAAAAJ&citation_for_view=ImWO7WYAAAAJ:_FxGoFyzp5QC) [**[Code]**](https://github.com/lsj2408/URPE)
 - We mathematically analyze the expressive power of RPE-based Transformers, and show that they are not universal approximators of continuous sequence-to-sequence functions.
 - We then present sufficient conditions for RPE-based Transformers to achieve universal function approximation. With the theoretical guidance, we develop Universal RPE-based (URPE) Attention, which is easy to implement and parameter-efficient.
 - Our URPE-based Transformers are verified to be universal approximators from both theoretical analysis and extensive experiments including synthetic tasks, language modeling and graph learning.
@@ -128,7 +128,7 @@ Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 </div>
 
 # 🎖 Honors and Awards
-- *2023.03*, ICLR 2023 **<font color="#DC143C">Outstanding Paper Award</font>** (top 4/4966)[**[Link]**](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/).
+- *2023.03*, ICLR 2023 **<font color="#DC143C">Outstanding Paper Award</font>** (top 4/4966) [**[Link]**](https://blog.iclr.cc/2023/03/21/announcing-the-iclr-2023-outstanding-paper-award-recipients/).
 - *2021.06*, 1st place Winner of PCQM4M Track, OGB Large Scale Challenge, KDD CUP 2021.
 - *2018.12*, National Scholarship (Top 1%). 
 
