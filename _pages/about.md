@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Shengjie Luo (罗胜杰), a third-year Ph.D. student at School of Intelligence Science and Technology in Peking University, advised by [Prof.Liwei Wang](http://www.liweiwang-pku.com/) and [Prof.Di He](https://dihe-pku.github.io/). Before that, I finished my undergraduate study at ShenYuan Honors College in Beihang University, majoring in Computer Science. I have been a research intern at [Microsoft Research Asia](https://www.msra.cn/).
+Hi! I am Shengjie Luo (罗胜杰), a fourth-year Ph.D. student at School of Intelligence Science and Technology in Peking University, advised by [Prof.Liwei Wang](http://www.liweiwang-pku.com/) and [Prof.Di He](https://dihe-pku.github.io/). Before that, I finished my undergraduate study at ShenYuan Honors College in Beihang University, majoring in Computer Science. I have been a research intern at [Microsoft Research Asia](https://www.msra.cn/).
 
 My main research area lies in machine learning, with special interests in models and algorithms inspired by theoretical insights. Recently, my works focus on representation learning on structured data (e.g., graphs and sequences) and provide comprehensive analysis on base architectures (Transformers, GNNs) covering their expressiveness, efficiency and effectiveness, as well as apply them to AI for Science, Graph Learning and Natural Language Processing. I have published several papers and been reviewers at the top machine learning and artificial intelligence conferences such as NeurIPS, ICML and ICLR.
 
@@ -26,6 +26,9 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🔥 News
+- *2024.05*: Two papers are accepted at ICML 2024!
+- *2024.01*: Our paper "Enabling Efficient Equivariant Operations in the Fourier Basis via Gaunt Tensor Products" is selected as Spotlight Presentation at ICLR 2024, see you in Vienna!
+- *2024.01*: One paper is accepted at ICLR 2024!
 - *2023.03*: Our paper "Rethinking the Expressive Power of GNNs via Graph Biconnectivity" received the  
              **<font color="#DC143C">ICLR 2023 Outstanding Paper Award</font>** (top 4/4966)!
 - *2023.01*: Two papers are accepted at ICLR 2023!
