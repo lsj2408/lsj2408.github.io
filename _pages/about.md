@@ -74,7 +74,7 @@ at the same time.
 
 [**ICML 2024**] [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/abs/2401.16421)
 
-Zhenyu He\*, Guhao Feng\*, **Shengjie Luo**\*†, Kai Yang, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He
+Zhenyu He\*, Guhao Feng\*, **Shengjie Luo**\*, Kai Yang, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He
 
 [**[Project]**](https://arxiv.org/abs/2401.16421) [**[Code]**](https://github.com/zhenyuhe00/BiPE) 
 - We develop a bilevel positional encoding, which has superior length extrapolation capabilities across diverse text modalities and tasks.
@@ -191,13 +191,18 @@ Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 - *2019.10 - 2020.06*, Natural Language Computing Group, Microsoft Research Asia, China.
 
 # 💬 Invited Talks
+- *2024.04*, [AI for Chemistry and Materials Science (AI4CM) Symposium, UC Berkeley \& MIT](https://lsj2408.github.io). Towards Efficient and Effective Geometric Deep Learning for Science. 
+- *2024.03*, [FAI Seminar](https://www.fai-seminar.ac.cn/). Enabling Efficient Equivairant Operations in the Fourier Basis via Gaunt Tensor Products.
+- *2023.06*, [FAI Seminar](https://www.fai-seminar.ac.cn/). One Transformer Can Understand Both 2D \& 3D Molecular Data.
+- *2023.05*, [ICLR 2023 Oral Presentation](https://iclr.cc/Conferences/2023). Rethinking the Expressive Power of GNNs via Graph Biconnectivity.
+- *2023.04*, [Scientific Machine Learning Webinar Series, Carnegie Mellon University](https://www.cmu.edu/aced/sciML.html). One Transformer Can Understand Both 2D \& 3D Molecular Data.
 - *2022.11*, [Gaoling School of Artificial Intelligence, Renmin University of China](http://ai.ruc.edu.cn/). Your Transformer May Not be as Powerful as You Expect.
 - *2022.11*, [AI Time](http://www.aitime.cn/). Your Transformer May Not be as Powerful as You Expect. \| [\[media\]](https://mp.weixin.qq.com/s/K14ASCTPrVpenPo95Ti3LA) 
 - *2022.03*, [Huawei Technologies Noah's Ark Lab](https://noahlab.com.hk/#/home). Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding.
 - *2022.02*, [AI Time](http://www.aitime.cn/). Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding. \| [\[media\]](https://mp.weixin.qq.com/s/EjPEwcvbl0xWAmjeVbPpNg) 
 
 # 🏫 Professional Services
-- Reviewer for ICLR 2022, NeurIPS 2022, LOG 2022, ICML 2023, NeurIPS 2023.
+- Reviewer for ICLR 2022-2024, NeurIPS 2022-2024, ICML 2023-2024, LOG 2022-2023, CVPR 2024, COLM 2024
 
 ---
 <center><sub>Visitor distribution </sub></center>
