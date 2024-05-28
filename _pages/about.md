@@ -1,4 +1,4 @@
-![image](https://github.com/lsj2408/lsj2408.github.io/assets/44956424/02c52bc6-f56c-42d6-a5ce-bfecbc554c3f)---
+---
 permalink: /
 title: ""
 excerpt: ""
