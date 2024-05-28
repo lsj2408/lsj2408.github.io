@@ -39,6 +39,52 @@ If you are interested in collaborating with me or want to have a chat, always fe
 - *2021.05*: One paper is accepted at ICML 2021!
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Gaunt-Tensor-Product.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ICLR 2024 Spotlight**] [Enabling Efficient Equivariant Operations in the Fourier Basis via Gaunt Tensor Products](https://arxiv.org/abs/2401.10216)
+
+**Shengjie Luo**\*, Tianlang Chen\*, Aditi S. Krishnapriyan
+
+[**[Project]**](https://openreview.net/forum?id=mhyQXJ6JsK) [**[Code]**](https://github.com/lsj2408/Gaunt-Tensor-Product) 
+- We develop a brandly new and systematic method to substantially improve the efficiency of the mainstream E(3) equivariant operations, tensor product of irreps, opening up a new opportunity to pushing the frontier of Geometric Deep Learning and its application in Science.
+- A new perspective: we reveal the relationship between Clebsch-Gordan coefficients and Gaunt coefficients spherical harmonics, connecting tensor product of Gaunt coefficients with integrals of products between three spherical functions.
+- A new opportunity: instead of using spherical harmonics, products between spherical functions expressed as 2D Fourier Basis can be accelerated.
+- We introduce Gaunt Tensor Product, a principled approach to accelerate Tensor Product of Irreps, the complexity of which is reduced to just O(L^3) instead of O(L^6).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/GeoMFormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ICML 2024**] [GeoMFormer: A General Architecture for Geometric Molecular Representation Learning](https://openreview.net/forum?id=xLRAQiqd9I)
+
+Tianlang Chen\*, **Shengjie Luo**\*†, Di He, Shuxin Zheng, Tie-Yan Liu, Liwei Wang
+
+[**[Project]**](https://openreview.net/forum?id=xLRAQiqd9I) [**[Code]**](https://openreview.net/forum?id=xLRAQiqd9I) 
+- We develop a Transformer-based Geometric Molecular model called GeoMFormer, which can effectively perform both invariant and equivariant prediction with strong performance
+at the same time.
+- Using the standard Transformer as the backbone architecture, GeoMFormer develops two streams: an invariant stream and an equivariant stream consisting of invariant/equivariant Self-Attention and FFN layers. The key design is to use cross-attention between the two streams, letting each stream incorporate the information from the other and enhance itself.
+- By allowing simultaneously and completely modeling interatomic interactions within/across feature spaces in a unified manner, GeoMFormer achieved strong performance covering diverse data modalities, scales and tasks with both invariant and equivariant targets, suggesting its broad applicability.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/BiPE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**ICML 2024**] [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/abs/2401.16421)
+
+Zhenyu He\*, Guhao Feng\*, **Shengjie Luo**\*\†, Kai Yang, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He
+
+[**[Project]**](https://arxiv.org/abs/2401.16421) [**[Code]**](https://github.com/zhenyuhe00/BiPE) 
+- We develop a bilevel positional encoding, which has superior length extrapolation capabilities across a wide range of tasks in diverse text modalities.
+- In many scenarios, text can be effectively decomposed into modular segments, each expressing a self-contained unit of thought, e.g., sentences for documents.
+- Leveraging the intrinsic segmentation of language sequences, our BiPE blends an intra-segment encoding and an inter-segment encoding.
+- The intra-segment encoding identifies the locations within a segment and helps the model capture the semantic information therein via absolute positional encoding.
+- The inter-segment encoding specifies the segment index, models the relationships between segments, and aims to improve extrapolation capabilities via relative positional encoding.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Graphormer-GD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
