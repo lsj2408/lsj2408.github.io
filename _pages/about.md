@@ -1,4 +1,4 @@
----
+![image](https://github.com/lsj2408/lsj2408.github.io/assets/44956424/02c52bc6-f56c-42d6-a5ce-bfecbc554c3f)---
 permalink: /
 title: ""
 excerpt: ""
@@ -43,7 +43,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Gaunt-Tensor-Product.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICLR 2024 Spotlight**] [Enabling Efficient Equivariant Operations in the Fourier Basis via Gaunt Tensor Products](https://arxiv.org/abs/2401.10216)
+[**ICLR 2024 <font color="#DC143C">Spotlight</font>**] [Enabling Efficient Equivariant Operations in the Fourier Basis via Gaunt Tensor Products](https://arxiv.org/abs/2401.10216)
 
 **Shengjie Luo**\*, Tianlang Chen\*, Aditi S. Krishnapriyan
 
@@ -52,6 +52,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 - A new perspective: we reveal the relationship between Clebsch-Gordan coefficients and Gaunt coefficients spherical harmonics, connecting tensor product of Gaunt coefficients with integrals of products between three spherical functions.
 - A new opportunity: instead of using spherical harmonics, products between spherical functions expressed as 2D Fourier Basis can be accelerated.
 - We introduce Gaunt Tensor Product, a principled approach to accelerate Tensor Product of Irreps, the complexity of which is reduced to just O(L^3) instead of O(L^6).
+- Our method opens up a new pathway for revolutionizing modern E(3) Equivariant Neural Networks, and extensive experiments further demonstrate the efficiency and generality of our Gaunt Tensor Product approach.
+
 </div>
 </div>
 
@@ -162,7 +164,7 @@ Chengxuan Ying, Tianle Cai, **Shengjie Luo**, Shuxin Zheng, Guolin Ke, Di He, Ya
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/graphnorm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICML 2021**] [GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training](https://proceedings.mlr.press/v139/cai21e)
+[**ICML 2021 <font color="#DC143C">Spotlight</font>**] [GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training](https://proceedings.mlr.press/v139/cai21e)
 
 Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 
