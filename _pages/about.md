@@ -77,11 +77,10 @@ at the same time.
 Zhenyu He\*, Guhao Feng\*, **Shengjie Luo**\*\†, Kai Yang, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He
 
 [**[Project]**](https://arxiv.org/abs/2401.16421) [**[Code]**](https://github.com/zhenyuhe00/BiPE) 
-- We develop a bilevel positional encoding, which has superior length extrapolation capabilities across a wide range of tasks in diverse text modalities.
-- In many scenarios, text can be effectively decomposed into modular segments, each expressing a self-contained unit of thought, e.g., sentences for documents.
+- We develop a bilevel positional encoding, which has superior length extrapolation capabilities across diverse text modalities and tasks.
 - Leveraging the intrinsic segmentation of language sequences, our BiPE blends an intra-segment encoding and an inter-segment encoding.
-- The intra-segment encoding identifies the locations within a segment and helps the model capture the semantic information therein via absolute positional encoding.
-- The inter-segment encoding specifies the segment index, models the relationships between segments, and aims to improve extrapolation capabilities via relative positional encoding.
+- The intra-segment encoding identifies the locations within a segment and helps the model capture the semantic information therein via absolute PE.
+- The inter-segment encoding specifies the segment index, models the relationships between segments, and aims to improve extrapolation capabilities via relative PE.
 </div>
 </div>
 
