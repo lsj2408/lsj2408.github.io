@@ -39,6 +39,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 - *2021.05*: One paper is accepted at ICML 2021!
 
 # 📝 Selected Publications 
+\* denotes equal contribution, † denotes correspondence authorship.
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Gaunt-Tensor-Product.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,8 +65,7 @@ Tianlang Chen\*, **Shengjie Luo**\*†, Di He, Shuxin Zheng, Tie-Yan Liu, Liwei 
 [**[Project]**](https://openreview.net/forum?id=xLRAQiqd9I) [**[Code]**](https://openreview.net/forum?id=xLRAQiqd9I) 
 - We develop a Transformer-based Geometric Molecular model called GeoMFormer, which can effectively perform both invariant and equivariant prediction with strong performance
 at the same time.
-- Using the standard Transformer as the backbone architecture, GeoMFormer develops two streams: an invariant stream and an equivariant stream consisting of invariant/equivariant Self-Attention and FFN layers. The key design is to use cross-attention between the two streams, letting each stream incorporate the information from the other and enhance itself.
-- By allowing simultaneously and completely modeling interatomic interactions within/across feature spaces in a unified manner, GeoMFormer achieved strong performance covering diverse data modalities, scales and tasks with both invariant and equivariant targets, suggesting its broad applicability.
+- By allowing simultaneously and completely modeling interatomic interactions within/across feature spaces in a unified manner, GeoMFormer achieved strong performance covering diverse data modalities, scales and tasks with both invariant and equivariant targets, opening up a new pathway towards scientific AI generalist.
 </div>
 </div>
 
@@ -74,7 +74,7 @@ at the same time.
 
 [**ICML 2024**] [Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/abs/2401.16421)
 
-Zhenyu He\*, Guhao Feng\*, **Shengjie Luo**\*\†, Kai Yang, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He
+Zhenyu He\*, Guhao Feng\*, **Shengjie Luo**\*†, Kai Yang, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He
 
 [**[Project]**](https://arxiv.org/abs/2401.16421) [**[Code]**](https://github.com/zhenyuhe00/BiPE) 
 - We develop a bilevel positional encoding, which has superior length extrapolation capabilities across diverse text modalities and tasks.
