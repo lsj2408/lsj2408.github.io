@@ -27,7 +27,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # 🔥 News
 - *2024.05*: Two papers are accepted at ICML 2024!
-- *2024.01*: Our paper "Enabling Efficient Equivariant Operations in the Fourier Basis via Gaunt Tensor Products" is selected as Spotlight Presentation at ICLR 2024, see you in Vienna!
+- *2024.01*: Our paper "Enabling Efficient Equivariant Operations in the Fourier Basis via Gaunt Tensor Products" is selected as  **<font color="#DC143C">Spotlight Presentation</font>** (top 4.96%) at ICLR 2024, see you in Vienna!
 - *2024.01*: One paper is accepted at ICLR 2024!
 - *2023.03*: Our paper "Rethinking the Expressive Power of GNNs via Graph Biconnectivity" received the  
              **<font color="#DC143C">ICLR 2023 Outstanding Paper Award</font>** (top 4/4966)!
@@ -43,7 +43,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Gaunt-Tensor-Product.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICLR 2024 <font color="#DC143C">Spotlight</font>**] [Enabling Efficient Equivariant Operations in the Fourier Basis via Gaunt Tensor Products](https://arxiv.org/abs/2401.10216)
+[**ICLR 2024 <font color="#DC143C">Spotlight (top 4.96%)</font>**] [Enabling Efficient Equivariant Operations in the Fourier Basis via Gaunt Tensor Products](https://arxiv.org/abs/2401.10216)
 
 **Shengjie Luo**\*, Tianlang Chen\*, Aditi S. Krishnapriyan
 
@@ -89,7 +89,7 @@ Zhenyu He\*, Guhao Feng\*, **Shengjie Luo**\*, Kai Yang, Liwei Wang, Jingjing Xu
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Graphormer-GD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICLR 2023 <font color="#DC143C">Outstanding Paper Award</font>**] [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505)
+[**ICLR 2023 <font color="#DC143C">Outstanding Paper Award (top 4/4966)</font>**] [Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://arxiv.org/abs/2301.09505)
 
 Bohang Zhang\*, **Shengjie Luo**\*, Liwei Wang, Di He
 
