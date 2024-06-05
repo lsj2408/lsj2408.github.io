@@ -193,6 +193,7 @@ Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 - *2019.10 - 2020.06*, Natural Language Computing Group, Microsoft Research Asia, China.
 
 # 💬 Invited Talks
+- *2024.06*, [CCF TCS Outstanding Doctoral Student Forum](https://lsj2408.github.io). Towards Efficient and Effective Geometric Deep Learning.
 - *2024.04*, [AI for Chemistry and Materials Science (AI4CM) Symposium, UC Berkeley \& MIT](https://lsj2408.github.io). Towards Efficient and Effective Geometric Deep Learning for Science. 
 - *2024.03*, [FAI Seminar](https://www.fai-seminar.ac.cn/). Enabling Efficient Equivairant Operations in the Fourier Basis via Gaunt Tensor Products.
 - *2023.06*, [FAI Seminar](https://www.fai-seminar.ac.cn/). One Transformer Can Understand Both 2D \& 3D Molecular Data.
