@@ -26,6 +26,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🔥 News
+- *2024.09*: Two papers are accepted at NeurIPS 2024!
 - *2024.05*: Two papers are accepted at ICML 2024!
 - *2024.01*: Our paper "Enabling Efficient Equivariant Operations in the Fourier Basis via Gaunt Tensor Products" is selected as  **<font color="#DC143C">Spotlight Presentation</font>** (top 4.96%) at ICLR 2024, see you in Vienna!
 - *2024.01*: One paper is accepted at ICLR 2024!
