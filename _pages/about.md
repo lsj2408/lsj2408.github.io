@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Shengjie Luo (罗胜杰), a fourth-year Ph.D. student at School of Intelligence Science and Technology in Peking University, advised by [Prof.Liwei Wang](http://www.liweiwang-pku.com/) and [Prof.Di He](https://dihe-pku.github.io/). Before that, I finished my undergraduate study at ShenYuan Honors College in Beihang University, majoring in Computer Science. I have been a research intern at [Microsoft Research Asia](https://www.msra.cn/).
+Hi! I am Shengjie Luo (罗胜杰), a final-year Ph.D. student at School of Intelligence Science and Technology in Peking University, advised by [Prof.Liwei Wang](http://www.liweiwang-pku.com/) and [Prof.Di He](https://dihe-pku.github.io/). Before that, I finished my undergraduate study at ShenYuan Honors College in Beihang University, majoring in Computer Science. I have been a research intern at [Microsoft Research Asia](https://www.msra.cn/).
 
 My main research area lies in machine learning, with special interests in providing insights into fundamental deep learning models and algorithms (Transformers, GNNs, Geometric Deep Learning), covering their expressiveness, efficiency and effectiveness. I have published several works in top-tier machine learning conferences such as ICLR, NeurIPS, ICML. I received the Outstanding Paper Award at ICLR 2023 (Top 4/4966) and won the 1st place winner prize of KDD CUP 2021.
 
