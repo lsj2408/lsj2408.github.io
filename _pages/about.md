@@ -206,7 +206,7 @@ Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 - *2022.02*, [AI Time](http://www.aitime.cn/). Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding. \| [\[media\]](https://mp.weixin.qq.com/s/EjPEwcvbl0xWAmjeVbPpNg) 
 
 # 🏫 Professional Services
-- Reviewer for ICLR 2022-2024, NeurIPS 2022-2024, ICML 2023-2024, LOG 2022-2023, CVPR 2024, COLM 2024.
+- Reviewer for ICLR 2022-2025, NeurIPS 2022-2024, ICML 2023-2024, LOG 2022-2023, CVPR 2024, COLM 2024.
 - Reviewer for Nature Machine Intelligence and Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
 ---
