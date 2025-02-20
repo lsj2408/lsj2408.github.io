@@ -26,6 +26,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # 🔥 News
+- *2025.01*: One paper is accepted at ICLR 2025!
 - *2024.09*: Two papers are accepted at NeurIPS 2024!
 - *2024.05*: Two papers are accepted at ICML 2024!
 - *2024.01*: Our paper "Enabling Efficient Equivariant Operations in the Fourier Basis via Gaunt Tensor Products" is selected as  **<font color="#DC143C">Spotlight Presentation</font>** (top 4.96%) at ICLR 2024, see you in Vienna!
@@ -206,7 +207,7 @@ Tianle Cai\*, **Shengjie Luo**\*, Keyulu Xu, Di He, Tie-Yan Liu, Liwei Wang
 - *2022.02*, [AI Time](http://www.aitime.cn/). Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding. \| [\[media\]](https://mp.weixin.qq.com/s/EjPEwcvbl0xWAmjeVbPpNg) 
 
 # 🏫 Professional Services
-- Reviewer for ICLR 2022-2025, NeurIPS 2022-2024, ICML 2023-2024, LOG 2022-2023, CVPR 2024, COLM 2024.
+- Reviewer for ICLR 2022-2025, NeurIPS 2022-2025, ICML 2023-2025, LOG 2022-2024, CVPR 2024-2025, COLM 2024-2025, ICCV 2025.
 - Reviewer for Nature Machine Intelligence and Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
 ---
